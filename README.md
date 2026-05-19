@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vrushabh Nikhade 👋
 
-<!--
-**VrushabhNikhade/VrushabhNikhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Biomedical Engineering student at Stevens Institute of Technology.
 
-Here are some ideas to get you started:
+Currently working as a Data Science & Analytics Intern at PepsiCo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- NLP & Semantic Clustering
+- Complaint Analytics
+- Machine Learning
+- Data Visualization
+- Healthcare AI
+
+## Tech Stack
+- Python
+- Pandas
+- Scikit-Learn
+- SQL
+- Databricks
+- Power BI
+- Azure DevOps
+
+## Current Work
+Working on large-scale complaint analytics and semantic similarity modeling using NLP techniques.
